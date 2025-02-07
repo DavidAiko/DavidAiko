@@ -1,4 +1,4 @@
-## G'day! I'm David.<br>## I'm an Systems Engineering Student and Design major based in COL from BOG.<br><br>- 🔭 Currently working on Lazarus & Coconut<br>- 🌱 Learning Java basics and Gradle<br>- 🎪 Collaborating on FactionNetwork<br>
+## G'day! I'm David.<br>I'm an Systems Engineering Student and Design major based in COL from BOG.<br><br>- 🔭 Currently working on Lazarus & Coconut<br>- 🌱 Learning Java basics and Gradle<br>- 🎪 Collaborating on FactionNetwork<br>
 
 
 ## 🌐 Socials:
@@ -10,9 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=DavidAiko&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DavidAiko&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAiko&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DavidAiko&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DavidAiko&limit=5&theme=dark&combine_all_yearly_contributions=true)
