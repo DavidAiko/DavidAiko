@@ -1,4 +1,4 @@
-## G'day! I'm David.<br>I'm an Systems Engineering Student and Design major based in COL from BOG.<br><br>- 🔭 Currently working on Lazarus & Coconut<br>- 🌱 Learning Java basics and Gradle<br>- 🎪 Collaborating on FactionNetwork<br>
+## G'day! I'm David.<br>I'm an Systems Engineering Student and Design major based in COL from BOG.<br><br>- 🔭 Currently working on Lazarus<br>- 🌱 Learning Java basics and Gradle<br>
 
 
 ## 🌐 Socials:
